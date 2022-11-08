@@ -20,7 +20,7 @@ Projeto Integrador do segundo semestre na Fatec Araras.
        <br />
     </td> 
     <td align="center">
-      <a href="">
+      <a href="https://github.com/LuizFernandoAvelinoBetelli">
         <img src="https://user-images.githubusercontent.com/102560328/199749480-9b215208-7f10-4b35-b941-8d461adf9077.jpg" width="100px;" alt="Luiz"/>
         <br />
         <sub>
@@ -70,7 +70,7 @@ Projeto Integrador do segundo semestre na Fatec Araras.
         <img src="https://avatars.githubusercontent.com/u/102570490?v=4" width="100px;" alt="Harthur"/>
         <br />
         <sub>
-          <b>Harthur com H</b>
+          <b>Harthur Felipe</b>
         </sub>
        </a>
        <br />
