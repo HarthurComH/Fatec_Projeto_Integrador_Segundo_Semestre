@@ -64,6 +64,8 @@ Projeto Integrador do segundo semestre na Fatec Araras.
         </sub>
        </a>
        <br />
+       <a href="https://www.linkedin.com/in/luca-beteghella-b78541256/" title="Linkedin">@lucabeteghella</a>
+       <br />
     </td>
     <td align="center">
       <a href="https://github.com/HarthurComH">
@@ -73,6 +75,8 @@ Projeto Integrador do segundo semestre na Fatec Araras.
           <b>Harthur Felipe</b>
         </sub>
        </a>
+       <br />
+       <a href="https://www.linkedin.com/in/harthur-benetti-290515256/" title="Linkedin">@harthurbenetti</a>
        <br />
     </td>
   </tr>
